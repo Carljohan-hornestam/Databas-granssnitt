@@ -6,12 +6,12 @@ import java.util.Properties;
 import java.util.Scanner;
 
 
-public class Program {
+public class DatabaseManager {
 
     private boolean isRunning = true;
 
 
-    public Program() {
+    public DatabaseManager() {
         run();
     }
 
